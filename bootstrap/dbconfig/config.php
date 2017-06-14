@@ -1,5 +1,4 @@
 <?php
-
 define('HOST', 'localhost');
 define('USER', 'root');
 define('PASSWORD', '');
@@ -16,6 +15,6 @@ function DB()
 	}
 }
 
-var_dump(DB());
+/*var_dump(DB());*/
 
 ?>
